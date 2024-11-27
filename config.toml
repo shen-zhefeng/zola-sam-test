@@ -1,11 +1,12 @@
 # The URL the site will be built for
-base_url = "https://shen-zhefeng.github.io/zola-sam-test"
+base_url = "https://shen-zhefeng.github.io/zola-sam-test/"
 title = "Zhefeng Shen"
 taxonomies = [
     { name = "tags", rss = true },
     { name = "authors", rss = true }
 ]
 hard_link_static = true
+default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
