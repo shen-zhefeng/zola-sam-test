@@ -1,1 +1,2 @@
-# zola-sam-test
+# plain-personal-site
+static academic personal website template
